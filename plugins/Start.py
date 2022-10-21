@@ -45,7 +45,7 @@ async def start(client, message):
         await db.add_user(user.id)             
     txt=f"<b>Hello👋 {user.mention} \n
 
-☞ I'm A Telegram File & Video Rename Bot With Permanent Thumbnail Support
+☞ Im A Telegram File & Video Rename Bot With Permanent Thumbnail Support
 
 ☞ Send Me Any Telegram File/Video
 
