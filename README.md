@@ -9,10 +9,10 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-PYRO-BOTZ&repo=PYRO-RENAME-BOT&theme=dark)
 
 
-### SAME BOT (official pyro rename bot)
+### SAME BOT (official pre-rename bot)
 
 <p align="center">
-🤖 <a href="https://t.me/Pyro_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="https://t.me/Telly_Botz"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
 </p>
 
 ### DEPLOYEMENT SUPPORT
@@ -20,7 +20,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/Regarduser/pre-rename-">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -68,16 +68,16 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
-<a href="https://t.me/lntechnical">
-   <p> lntechnical TG</p>
+<a href="https://t.me/bjsodha">
+   <p> bhimsinh TG</p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> lntechnical YT </p>
+<a href="https://t.me/annoying_boy">
+   <p> annoying TG </p>
   </a>
 
 ## 🤩 INSPIRATION
 
-<a href="https://youtube.com/c/MoTech_YT">
-   <p>❣️ MoTech 🔥</p>
+<a href="self">
+   <p>❣️ self 🔥</p>
   </a>
 
