@@ -7,6 +7,9 @@
 
 <p align="center"><a href="https://t.me/bjsodha"><img src="https://telegra.ph/file/1f8cc280d13b637cc6c72.jpg" width="500"></a></p>
 
+<p align="center"><a href="https://t.me/bjsodha"><img src="https://telegra.ph/file/773e7ccc5f551ab89c835.jpg" width="500"></a></p>
+
+
 ### SAME BOT (official pre-rename bot)
 
 <p align="center">
