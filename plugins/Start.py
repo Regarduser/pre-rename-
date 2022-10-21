@@ -43,10 +43,19 @@ async def start(client, message):
     user = message.from_user
     if not await db.is_user_exist(user.id):
         await db.add_user(user.id)             
-    txt=f"<b>Hello👋 {user.mention} \n
- 
- 
- 
+    txt=f"<b>Hello👋 {user.mention} \n☞ I'm A Telegram File & Video Rename Bot With Permanent Thumbnail Support. \n
+
+☞ Send Me Any Telegram File/Video! \n
+
+☞ Send A Photo To Save As Permanent Thumbnail! \n
+
+☞ Select Your Desired/Required Option! \n
+
+☞ Then Wait Till The Process Get Completed! \n
+
+☞ Maintained By : \n
+@RipperNo1 \n
+@annoying_boy </b>"
 
     button=InlineKeyboardMarkup( [[
         InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/Telly_Botz'),
