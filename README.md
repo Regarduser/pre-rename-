@@ -5,9 +5,7 @@
 
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-PYRO-BOTZ&repo=PYRO-RENAME-BOT&theme=dark)
-
+<p align="center"><a href="https://t.me/bjsodha"><img src="https://telegra.ph/file/1f8cc280d13b637cc6c72.jpg" width="500"></a></p>
 
 ### SAME BOT (official pre-rename bot)
 
