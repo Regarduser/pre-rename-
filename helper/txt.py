@@ -31,6 +31,7 @@ class mr(object):
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
+┣⪼ <b>@annoying_boy</b>
 ╰━━━━━━━━━━━━━━━➣ """
 
     ABOUT_TXT = """
